@@ -1,0 +1,1 @@
+1. Empezar el testing por los componentes que tienen menor dependencia (eg. GifItem.jsx)
